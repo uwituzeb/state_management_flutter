@@ -1,6 +1,6 @@
 # Favorites Management App
 
-A Flutter application that demonstrates how to manage a list of favorite items using the `Provider` package and `shared_preferences` for data persistence. Users can add items to their favorites, view them on a separate screen, and remove them if necessary. The app ensures that favorites persist across app restarts.
+A Flutter application that demonstrates how to manage a list of favorite items using the `Provider` package and `shared_preferences` for data persistence. Users can add items(songs) to their favorites, view them on a separate screen, and remove them if necessary. The app ensures that favorites persist across app restarts.
 
 ## Features
 
@@ -13,7 +13,6 @@ A Flutter application that demonstrates how to manage a list of favorite items u
 
 - Flutter SDK installed on your system.
 - Android Studio or Xcode for running the app on Android/iOS simulators/emulators.
-- Internet connection for downloading dependencies.
 
 ## Installation
 
